@@ -1,0 +1,8 @@
+.btn {
+  background-color: aquamarine;
+  font-size: 50px;
+  color: blue;
+}
+.btn + .btn {
+  margin-left: 50px;
+}
